@@ -1,0 +1,5 @@
+__pycache__/
+yolov5l.pt
+yolov5s.pt
+yolov5m.pt
+pt/
